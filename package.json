@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "ajv": "^8.17.1",
-    "ajv-keywords": "^5.1.0",
     "lucide-react": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -12,8 +10,8 @@
     "web-vitals": "^2.1.0"
   },
   "overrides": {
-    "ajv": "^8.17.1",
-    "ajv-keywords": "^5.1.0"
+    "ajv": "6.12.6",
+    "ajv-keywords": "3.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
