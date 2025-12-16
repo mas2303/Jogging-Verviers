@@ -761,12 +761,12 @@ const trainingPlan = [
       },
       {
         id: "w24s3",
-        day: "Vendredi",
+        day: "Samedi",
         type: "RACE DAY",
         duration: "13 km",
         content: "JOGGING DE VERVIERS 20h00 !",
         done: false,
-      }, // Note: Souvent le vendredi soir à Verviers
+      },
     ],
   },
 ];
