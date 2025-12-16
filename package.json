@@ -1,9 +1,10 @@
 {
   "name": "verviers-pulse",
   "version": "1.0.0",
-  "description": "App Jogging Verviers",
   "private": true,
   "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0",
     "lucide-react": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
