@@ -1,6 +1,10 @@
 {
   "name": "react",
   "version": "1.0.0",
+  "overrides": {
+    "ajv": "8.17.1",
+    "ajv-keywords": "5.1.0"
+  },
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",
